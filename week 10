@@ -1,1 +1,16 @@
+<html>
+<head>
+  <title>Week 8</title>
+</head>
+<body>
+  <h1>JavaScript Demo</h1>
+  <a href="#" document.getElementById('box').innerHTML = 'You clicked it!';
+  <p id="box"></p>
+  document.getElementById('box');
+
+</body>
+</html>
+
+
+
 
