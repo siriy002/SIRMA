@@ -4,11 +4,13 @@
 </head>
 <body>
   <h1>JavaScript Demo</h1>
-  <a href="#">Click me</a>
+  <a href="#" document.getElementById('box').innerHTML = 'You clicked it!';
   <p id="box"></p>
+  document.getElementById('box');
+
 </body>
 </html>
 
-Task 2
+
 
 
